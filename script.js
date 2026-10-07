@@ -9,46 +9,47 @@ const businessProfile = {
 
     // Optional: short brand shown in the top bar. Falls back to
     // company initials if left empty.
-    brandShort: "जय संतोषी माँ",
+    brandShort: "Mangalam Hardware",
 
-    profileImage: "assets/profile/rubin.jpeg",
-    logo: "assets/logos/santoshima.jpeg",
+    profileImage: "assets/profile/suraj.jpeg",
+    logo: "assets/logos/logo.jpeg",
 
-    tagline: "Managing Director",
+    tagline: "Shri Managing Director",
     description:
-        "In Jai Santoshi ma, we provide all kinds of gold, silver and diamond jewelleies. We provide custom as well as readymade designs.",
+        "In Shri Mangalama Hardware we sell all kinds of Hardware, Sanitary, Plumbing, Electrical equipments and also provide reparing services. We also sell UPVC | CPVC items in wholesale as well as retail prices.",
 
-    phone: "+977 9855063964",
-    whatsapp: "9855063964",
-    email: "rubinramudamu@gmail.com",
-    website: "https://rubinramudamu.tappoo.workers.dev/",
+    phone: "+977 9829067258",
+    whatsapp: "9829067258",
+    email: "",
+    website: "https://surajpariyar.tappoo.workers.dev/",
 
-    address: "Jai santoshi Ma soon chandi, Milan road, Chitwan, Nepal",
+    address: "Sangam road, Chitwan, Nepal",
     // Optional: exact Google Maps link. If omitted a search URL is
     // built automatically from `address` + `company`.
-    mapsUrl: "https://maps.app.goo.gl/rocMWrgem7EMsZAv5?g_st=ac",
+    mapsUrl: "https://maps.app.goo.gl/LE2UJzPCZ7Edqa6T9",
 
-    handle: "@rubin_ramudamu_",
+    handle: "@suraj_pariyar_",
 
-    instagram: "https://www.instagram.com/rubin.ramudamu?stkn=MTNwNmVwb2FkaWg5ZA==",
-    facebook: "https://www.facebook.com/share/1JTPunT8un/",
+    instagram: "https://www.instagram.com/shreemangalamhardware?stkn=MWl6Mm0xM28wdjczdQ==",
+    facebook: "https://www.facebook.com/share/19zdK9B1Qw/",
     linkedin: "",
-    tiktok: "https://www.tiktok.com/@jaysantoshimaagoldshop?_r=1&_t=ZS-9A4jQl2k593",
+    tiktok: "https://www.tiktok.com/@shreemangalamhardw?_r=1&_t=ZS-9AJr6GANMaT",
     youtube: "",
 
     whatsappMessage:
-        "Hello, Mr. Rubin.",
+        "Hello, Mr. Suraj",
 
     services: [
-        "Jai Santoshi Ma Sunchadi Showroom",
-        "Ma santoshi Jewwlers",
-        "Chairman of \"EURO MOTORS PVT. LTD.\"",
-        "President Of \"Gold and silver saving and cooperative society president\""
+        "Hardware of All kinds",
+        "Sanitary",
+        "Plumbing",
+        "Electrical Items",
+        "Reparing"
         
     ],
 
     businessCardImage: "assets/business-cards/business_card.png",
-    vcardPhoto: "assets/profile/rubin.jpeg"
+    vcardPhoto: "assets/profile/suraj.jpeg"
 };
 
 // ================================================================
